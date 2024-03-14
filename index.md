@@ -5,4 +5,4 @@ title: "Velkommen til Mit Site"
 
 <h1>Velkommen</h1>
 
-<a href="Ringworm.md">Besøg Ringormen her</a>
+<a href="Ringworm">Besøg Ringormen her</a>
